@@ -1,0 +1,31 @@
+Question1
+i) Database - This is a collection of related data arranged in tables.
+ii) Database management system -  This is a software used to create, update, manipulate databases.
+ii) SQL - This is a structured query language used to create, update, manipulate databases.
+iv) Foreign key - This is an attribute in a relation which is a primary key in another relation.
+v) Primary key - This is an attribute which uniquely identifies an occurence in a relation.
+
+Question 2
+The merits of of using database are as follows.
+-Databases help store large amounts of data forexample, its hard to store files of all students in an university in a file 
+based system but all this information can be stored in a database.
+-Databases ease sharing of data in case time of need arises.
+-Databases ease access af data through the use of querries compared to the use of a file based system.
+-Databases ease the modification of any ocurrence forexample in case of a DBMS for a small scale company, as the company grows,
+ the data to be stored expands thus expanding the database.
+-Databases reduce the risk of unauthorized access of data since because of their security features.
+
+Question 3
+-Oracle
+-Microsoft access
+-MYSQL
+-PGADMIN
+-PHPMyAdmin
+
+Question 4
+One to One
+This is where an entity in a only one possible occurence in another relation.
+One to many
+This is where an entity in a relation has one or more occurences in another relation. 
+Many to Many
+This is where entities in a relation can have morethan one occurance in another relation.
