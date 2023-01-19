@@ -1,0 +1,4 @@
+i). WHERE - This sets a condition for the resulte set to be returned.
+ii). DISTINCT - Returns a result setwith unique values as specified in the query from the table.
+iii). SELECT - Used to retrieve data from a table.
+iv). ORDER BY - Sets an order in which the reselt et is to be ordered. it can be ascending(ASC) or descending order (DESC)
